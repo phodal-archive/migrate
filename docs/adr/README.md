@@ -5,3 +5,4 @@
 * [3. identity-api-call-graph](0003-identity-api-call-graph.md)
 * [4. architecture-digram-to-graphviz](0004-architecture-digram-to-graphviz.md)
 * [5. nlp-from-documents](0005-nlp-from-documents.md)
+* [6. refactor-to-patterns-factory](0006-refactor-to-patterns-factory.md)
